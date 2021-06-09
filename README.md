@@ -1,0 +1,3 @@
+# vimrc
+
+### setup _vimrc
